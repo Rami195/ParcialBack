@@ -17,7 +17,7 @@ La API recibe una secuencia de ADN en formato JSON a través de una solicitud HT
 ## Link de Despliegue
 
 La API está desplegada en Render y puede ser accedida en:
-[[https://mutantdetector.onrender.com](https://mutantdetector.onrender.com)](https://detectormutante.onrender.com)
+https://parcialback-vnse.onrender.com
 
 ## Endpoints de la API
 
